@@ -1,2 +1,2 @@
 # Alternative-Bank-Credit-Score-Prediction
-I have been working on Alternative Bank Credit Score Prediction under the supervision of Professor Nova Ahmed at Design Inclusion &amp; Access Lab. 
+I have been working on Alternative Bank Credit Scores using six different datasets to reduce the burden of Banks and Credit Loan takers. I have used four different feature selection techniques named Lasso Regularization L1, Fisher Score, Information Gain, and Kendall's Tau in this project and compared their result. Based on the result, I've found that the Fisher score can be the best choice for credit score. Lastly, we have implemented SHAP, Permutation Feature importance and Morris Sensitivity Analysis to interpret the model's decision. 
